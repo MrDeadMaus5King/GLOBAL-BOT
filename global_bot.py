@@ -12,8 +12,8 @@ from aiogram.types import Message, ChatJoinRequest, InlineKeyboardMarkup, Inline
 from aiogram.enums import ParseMode
 
 # ========== КОНФИГ ==========
-TOKEN = "ТВОЙ_ТОКЕН_СЮДА"
-REQUIRED_CHANNEL = "@твой_канал"
+TOKEN = "8892399602:AAEg9ZSUjL4P3WxkaK4TBnXwqlNNnf1WDKA"
+REQUIRED_CHANNEL = "@https://t.me/hawingpower"
 ADMIN_ID = 123456789
 BOT_NAME = "The Global Bot"
 
